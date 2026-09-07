@@ -9,3 +9,7 @@ for i in range(1,7)
     print (i*i)
 for i in range (1,6)
     print (hello)
+for i in range (1,11)
+    if i % 2!=0:
+        print(i)
+        
